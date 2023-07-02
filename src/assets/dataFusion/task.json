@@ -1,0 +1,696 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "电池制造",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "东方电气集团 33，宁德时代 34，三星 SDI35",
+      "category": "紧急性1",
+      "symbolSize": 20,
+      "x": -174.82776,
+      "y": -443.6904
+    },
+    {
+      "id": "1",
+      "name": "金属采掘",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "中国铝业0，欧洲矿业1，澳洲力拓集团2",
+      "category": "紧急性1",
+      "symbolSize": 20,
+      "x": -648.08344,
+      "y": -206.8853
+    },
+    {
+      "id": "2",
+      "name": "金属治炼",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "宝钢股份 3，万山特钢股份 4，三菱重工 5",
+      "category": "紧急性1",
+      "symbolSize": 20,
+      "x": -465.76357,
+      "y": -196.29176
+    },
+    {
+      "id": "3",
+      "name": "金属加工",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "南钢股份6，武汉钢铁7，索迪斯 8",
+      "category": "紧急性1",
+      "symbolSize": 20,
+      "x": -342.82404,
+      "y": -455.26283
+    },
+    {
+      "id": "4",
+      "name": "非金属采掘",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "中煤能源集团 12，中国石油化工13，北方稀士集团 14",
+      "category": "紧急性1",
+      "symbolSize": 20,
+      "x": -628.30386,
+      "y": -149.06424
+    },
+    {
+      "id": "5",
+      "name": "车联网设备制造",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "华为45、科达利集团 46、英特尔公司 47",
+      "category": "紧急性5",
+      "symbolSize": 20,
+      "x": -227.26337,
+      "y": -306.03506
+    },
+    {
+      "id": "6",
+      "name": "化工原料制造",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "中国石化化工21、湖北宜化化工22、中国盐业集团 234",
+      "category": "紧急性4",
+      "symbolSize": 20,
+      "x": -392.6012,
+      "y": -115.16974
+    },
+    {
+      "id": "7",
+      "name": "化工材料合成",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "中国中材集团24、中国石油化工25、中国航空工业集团 26",
+      "category": "紧急性4",
+      "symbolSize": 20,
+      "x": -322.6012,
+      "y": -5.16974
+    },
+    {
+      "id": "8",
+      "name": "家电零部件组装",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "中国五矿集团30、中国有色矿业集团 31、中国神华能源 32",
+      "category": "紧急性4",
+      "symbolSize": 20,
+      "x": -262.6012,
+      "y": 155.16974
+    },
+    {
+      "id": "9",
+      "name": "化工废料处理",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "环保科技 39、爱康科技 40、清远市环保科技 41",
+      "category": "紧急性2",
+      "symbolSize": 20,
+      "x": 474.39832,
+      "y": -221.16772
+    },
+    {
+      "id": "10",
+      "name": "非金属矿物制品",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "中国建材集团 15、中国海螺集团 16、北新建材股份 17",
+      "category": "紧急性3",
+      "symbolSize": 20,
+      "x": -459.34107,
+      "y": -384.56128
+    },
+    {
+      "id": "11",
+      "name": "二手车回收",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "瓜子二手车54、人人网 55、车易拍 56",
+      "category": "紧急性2",
+      "symbolSize": 20,
+      "x": 447.93029,
+      "y": -340.8120565
+    },
+    {
+      "id": "12",
+      "name": "物流运输",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "顺丰速运57、中国邮政58、德邦物流59",
+      "category": "紧急性3",
+      "symbolSize": 20,
+      "x": 9.77908,
+      "y": -124.69139
+    },
+    {
+      "id": "13",
+      "name": "人力资源服务",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "麦可思 60、阳光人力资源61、花旗集团 62",
+      "category": "紧急性3",
+      "symbolSize": 20,
+      "x": 114.31313,
+      "y": -218.55301
+    },
+    {
+      "id": "14",
+      "name": "汽车零部件制造",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "江淮汽车 63，武汉博泰汽车 64，博世集团 65",
+      "category": "紧急性3",
+      "symbolSize": 20,
+      "x": -58.05168,
+      "y": -341.99768
+    },
+    {
+      "id": "15",
+      "name": "整车制造",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "category": "紧急性4",
+      "lists": "比亚迪 66，上汽集团 67，一汽集团 68",
+      "cluster": "2",
+      "symbolSize": 20,
+      "x": 58.701546,
+      "y": -341.55057
+    },
+    {
+      "id": "16",
+      "name": "汽车销售",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "上汽集团，美国通用汽车69，德国大众70",
+      "category": "紧急性4",
+      "symbolSize": 20,
+      "x": 100.2226,
+      "y": -456.5572
+    },
+    {
+      "id": "17",
+      "name": "车辆维护",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "长安汽车71，优信集团72，奥迪服务 734",
+      "category": "紧急性4",
+      "symbolSize": 20,
+      "x": 150.55884,
+      "y": -353.98975
+    },
+    {
+      "id": "18",
+      "name": "金属回收再利用",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "安永金属回收9、宝钢再生资源 10、美利金属回收 11",
+      "category": "紧急性2",
+      "symbolSize": 20,
+      "x": 354.79382,
+      "y": -113.57944
+    },
+    {
+      "id": "19",
+      "name": "非金属回收再利用",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "新型建材集团18、万利达再生资源 19、马士基再生资源 20",
+      "category": "紧急性2",
+      "symbolSize": 20,
+      "x": 424.79382,
+      "y": -163.57944
+    },
+    {
+      "id": "20",
+      "name": "家电回收",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "京东环保 27、爱回收 28、亿田环保 29",
+      "category": "紧急性2",
+      "symbolSize": 20,
+      "x": 414.79382,
+      "y": 103.57944
+    },
+    {
+      "id": "21",
+      "name": "大数据分析",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "京东数科51、元征科技 52、国家信息中心 53",
+      "category": "紧急性5",
+      "symbolSize": 20,
+      "x": -306.44113,
+      "y": -215.13303
+    },
+    {
+      "id": "22",
+      "name": "汽车软件开发",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "4",
+      "lists": "百度 42、Mobileye 公司43、奥托立夫股份 44、华为 33",
+      "category": "紧急性5",
+      "symbolSize": 20,
+      "x": -166.44113,
+      "y": -335.13303
+    },
+    {
+      "id": "23",
+      "name": "互联网服务",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "腾讯公司48、阿里巴巴集团49、字节跳动50",
+      "category": "紧急性5",
+      "symbolSize": 20,
+      "x": -206.44113,
+      "y": -135.13303
+    },
+    {
+      "id": "24",
+      "name": "充电基础设施建设",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "特斯拉 36、国家电网公司 37、爱驰汽车科技 38",
+      "category": "紧急性3",
+      "symbolSize": 20,
+      "x": 282.6012,
+      "y": -300.16974
+    },
+    {
+      "id": "25",
+      "name": "金属加工",
+      "requirements": "30",
+      "products": "139",
+      "deadline": "80",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "南钢股份7，武汉钢铁8，索迪斯 80",
+      "category": "紧急性1",
+      "symbolSize": 20,
+      "x": -442.82404,
+      "y": -5.26283
+    },
+    {
+      "id": "26",
+      "name": "电池制造",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "东方电气集团 13，宁德时代 24，三星 SDI36",
+      "category": "紧急性1",
+      "symbolSize": 20,
+      "x": -474.82776,
+      "y": 103.6904
+    },
+    {
+      "id": "27",
+      "name": "非金属矿物制品",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "中国建材集团 16、中国海螺集团 17、北新建材股份 18",
+      "category": "紧急性3",
+      "symbolSize": 20,
+      "x": -559.34107,
+      "y": 104.56128
+    },
+    {
+      "id": "28",
+      "name": "智能家居",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "华为45、三星 46、小米 47",
+      "category": "紧急性5",
+      "symbolSize": 20,
+      "x": -227.26337,
+      "y": 106.03506
+    },
+    {
+      "id": "29",
+      "name": "家电销售",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "京东11，阿里巴巴24，苏宁易购70",
+      "category": "紧急性4",
+      "symbolSize": 20,
+      "x": -70.2226,
+      "y": 56.5572
+    },
+    {
+      "id": "30",
+      "name": "家电维修",
+      "requirements": "40",
+      "products": "134",
+      "deadline": "90",
+      "lastTime": "60",
+      "numbers": "3",
+      "lists": "长安汽车71，优信集团72，奥迪服务 734",
+      "category": "紧急性4",
+      "symbolSize": 20,
+      "x": 200.55884,
+      "y": 53.98975
+    }
+  ],
+  "links": [
+    {
+      "source": "2",
+      "target": "3",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "1",
+      "target": "2",
+      "label": {
+        "formatter": "0.6"
+      }
+    },
+    {
+      "source": "3",
+      "target": "0",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "2",
+      "target": "25",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "25",
+      "target": "26",
+      "label": {
+        "formatter": "0.4"
+      }
+    },
+    {
+      "source": "4",
+      "target": "10",
+      "label": {
+        "formatter": "0.7"
+      }
+    },
+    {
+      "source": "4",
+      "target": "27",
+      "label": {
+        "formatter": "0.6"
+      }
+    },
+    {
+      "source": "23",
+      "target": "5",
+      "label": {
+        "formatter": "0.3"
+      }
+    },
+    {
+      "source": "23",
+      "target": "28",
+      "label": {
+        "formatter": "0.6"
+      }
+    },
+    {
+      "source": "23",
+      "target": "22",
+      "label": {
+        "formatter": "0.6"
+      }
+    },
+    {
+      "source": "0",
+      "target": "14",
+      "label": {
+        "formatter": "0.4"
+      }
+    },
+    {
+      "source": "10",
+      "target": "14",
+      "label": {
+        "formatter": "0.2"
+      }
+    },
+    {
+      "source": "14",
+      "target": "15",
+      "label": {
+        "formatter": "0.3"
+      }
+    },
+    {
+      "source": "15",
+      "target": "16",
+      "label": {
+        "formatter": "0.8"
+      }
+    },
+    {
+      "source": "16",
+      "target": "17",
+      "label": {
+        "formatter": "0.8"
+      }
+    },
+    {
+      "source": "12",
+      "target": "16",
+      "label": {
+        "formatter": "0.4"
+      }
+    },
+    {
+      "source": "6",
+      "target": "7",
+      "label": {
+        "formatter": "0.6"
+      }
+    },
+    {
+      "source": "6",
+      "target": "15",
+      "label": {
+        "formatter": "0.8"
+      }
+    },
+    {
+      "source": "7",
+      "target": "8",
+      "label": {
+        "formatter": "0.4"
+      }
+    },
+    {
+      "source": "26",
+      "target": "8",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "27",
+      "target": "8",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "8",
+      "target": "29",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "29",
+      "target": "30",
+      "label": {
+        "formatter": "0.9"
+      }
+    },
+    {
+      "source": "12",
+      "target": "29",
+      "label": {
+        "formatter": "0.6"
+      }
+    },
+    {
+      "source": "13",
+      "target": "17",
+      "label": {
+        "formatter": "0.4"
+      }
+    },
+    {
+      "source": "13",
+      "target": "30",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "30",
+      "target": "20",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "17",
+      "target": "11",
+      "label": {
+        "formatter": "0.3"
+      }
+    },
+    {
+      "source": "11",
+      "target": "9",
+      "label": {
+        "formatter": "0.4"
+      }
+    },
+    {
+      "source": "11",
+      "target": "18",
+      "label": {
+        "formatter": "0.4"
+      }
+    },
+    {
+      "source": "11",
+      "target": "19",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "20",
+      "target": "9",
+      "label": {
+        "formatter": "0.5"
+      }
+    },
+    {
+      "source": "20",
+      "target": "18",
+      "label": {
+        "formatter": "0.6"
+      }
+    },
+    {
+      "source": "20",
+      "target": "19",
+      "label": {
+        "formatter": "0.7"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "紧急性1"
+    },
+    {
+      "name": "紧急性2"
+    },
+    {
+      "name": "紧急性3"
+    },
+    {
+      "name": "紧急性4"
+    },
+    {
+      "name": "紧急性5"
+    }
+  ]
+}
